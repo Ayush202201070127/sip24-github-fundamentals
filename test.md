@@ -1,1 +1,1 @@
-Hi this is for test purpose.
+this is text purpose.
